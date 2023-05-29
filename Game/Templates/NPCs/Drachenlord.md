@@ -1,0 +1,1 @@
+NPC 3 random Tp's wenn einer oder mehrere Spieler auf dem Feld sind wird +10 Gold

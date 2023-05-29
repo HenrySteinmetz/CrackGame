@@ -1,0 +1,1 @@
+Eine Bedingung, die erfüllt sein muss, um einen Effekt auszulösen.

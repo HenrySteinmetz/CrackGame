@@ -1,0 +1,1 @@
+Leon Machere: NPC 3 Tp's auf random Felder, wenn er auf ein Feld mit einem oder mehreren NPCs oder Spielern kommt wird das Spielfeld resetet und alle NPCs außer Leon Machere gelöscht

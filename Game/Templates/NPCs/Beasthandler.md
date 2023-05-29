@@ -1,0 +1,1 @@
+NPC spawnt einen bereits vorhandenen NPC, am Ende des Spielzuges, auf einem zufälligen Feld(NPCeffekt aktiviert sich noch)

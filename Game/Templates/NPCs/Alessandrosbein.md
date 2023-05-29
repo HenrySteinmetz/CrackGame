@@ -1,0 +1,1 @@
+NPC 3 Tp's auf random Felder, wenn er auf ein Feld tp'ed wird wo einer oder mehrere Spieler sind werden alle NPC außer Markus Rühl und er selbst vernichtet

@@ -1,0 +1,1 @@
+NPC Jedes mal wenn ein Spieler dran wird ein Feld zum Tipicofeld(siehe Templates)

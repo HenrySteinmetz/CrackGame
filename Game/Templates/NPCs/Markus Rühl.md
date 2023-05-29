@@ -1,0 +1,1 @@
+NPC zieht 50 Gold von deinem Kontostand ab tp'ed sich 3 Runde

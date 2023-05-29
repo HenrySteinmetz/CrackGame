@@ -1,0 +1,1 @@
+NPC 3 Tp's wenn Spieler auf dem Feld -100 Gold

@@ -1,0 +1,1 @@
+Spielfeld: Zahle 10 (egal ob Insimodus oder nicht) 90% nichts 10% 101 Gold

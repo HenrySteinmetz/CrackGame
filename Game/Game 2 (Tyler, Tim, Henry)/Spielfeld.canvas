@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"16 Start","id":"05287b22e09b20d3","x":-410,"y":100,"width":250,"height":107,"color":"4"},
+		{"type":"text","text":"11 Belohnungsfeld","id":"12be02f41ad253b1","x":-410,"y":-60,"width":250,"height":118,"color":"2"},
+		{"type":"file","file":"Game 2 (Tyler, Tim, Henry)/Pasted image 20230529161727.png","id":"77fc15275b4781ae","x":-400,"y":154,"width":50,"height":50},
+		{"type":"file","file":"Pasted image 20230529162742.png","id":"0cb38ad318ad24c7","x":-260,"y":153,"width":83,"height":50},
+		{"type":"file","file":"Game 2 (Tyler, Tim, Henry)/Pasted image 20230528221145 1.png","id":"deb87e14e6986dfe","x":-335,"y":152,"width":50,"height":53},
+		{"type":"text","text":"NPCspawnecke\n","id":"0f2028070f7d3842","x":-302,"y":-319,"width":682,"height":159},
+		{"type":"file","file":"Pasted image 20230529164736.png","id":"0c9330a8048e553d","x":-350,"y":-1,"width":67,"height":50},
+		{"type":"text","text":"21 ","id":"b8a277258703f865","x":-410,"y":260,"width":250,"height":110},
+		{"id":"e00f5cb0cdd2b8c8","x":-680,"y":100,"width":250,"height":110,"type":"text","text":"15"},
+		{"type":"text","text":"17","id":"767562d9c62cba02","x":-120,"y":100,"width":250,"height":110}
+	],
+	"edges":[]
+}

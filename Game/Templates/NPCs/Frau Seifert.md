@@ -1,0 +1,1 @@
+NPC 3 random Tp's der Kontostand x kassiert diese behinderte Formel: (sqrt(abs(x); 3)), wenn du auf einem Feld mit Frau Seifert bist

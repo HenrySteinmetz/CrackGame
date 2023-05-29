@@ -1,0 +1,1 @@
+NPC 5 random Tp's, wenn einer oder mehrere Spieler auf dem Feld sind Kontostand = (0 Gold) für jeden

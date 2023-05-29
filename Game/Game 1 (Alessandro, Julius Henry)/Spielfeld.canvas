@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"16 Start und Tipico\nSpieler: Alessandro, Henry, Julius","id":"aba297daab80280d","x":-140,"y":425,"width":250,"height":129,"color":"6"},
+		{"type":"file","file":"Game 1 (Alessandro, Julius Henry)/Pasted image 20230528231938.png","id":"53e3c794fbc7aea0","x":156,"y":-760,"width":50,"height":81},
+		{"type":"file","file":"Game 1 (Alessandro, Julius Henry)/Pasted image 20230528230917.png","id":"48db5a1536c42157","x":237,"y":-760,"width":97,"height":97},
+		{"type":"file","file":"Game 1 (Alessandro, Julius Henry)/Pasted image 20230528232548.png","id":"652909b0bb5157c1","x":363,"y":-760,"width":162,"height":91},
+		{"type":"text","text":"17 Belohnungsfeld und Tipico\nSpieler: ","id":"28c8f862ea9ae785","x":160,"y":425,"width":250,"height":129,"color":"2"},
+		{"type":"file","file":"Game 1 (Alessandro, Julius Henry)/Pasted image 20230528233218.png","id":"a499c5b51d2f7154","x":651,"y":-760,"width":118,"height":157},
+		{"type":"file","file":"Game 1 (Alessandro, Julius Henry)/Pasted image 20230528234537.png","id":"f7376907014258e6","x":-30,"y":450,"width":118,"height":79},
+		{"type":"file","file":"Game 1 (Alessandro, Julius Henry)/Pasted image 20230528231433.png","id":"c3a2ed2d968a1111","x":-111,"y":437,"width":81,"height":92},
+		{"type":"text","text":"NPCSpawnecke","id":"292c134d65542fd7","x":29,"y":-560,"width":712,"height":370}
+	],
+	"edges":[
+		{"id":"8ceebb7df30926b2","fromNode":"aba297daab80280d","fromSide":"right","toNode":"28c8f862ea9ae785","toSide":"left"},
+		{"id":"7e0f86f158a991ba","fromNode":"28c8f862ea9ae785","fromSide":"left","toNode":"aba297daab80280d","toSide":"right"}
+	]
+}

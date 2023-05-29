@@ -1,0 +1,1 @@
+Ein Effekt ist eine Regel, die nur unter bestimmten Bedingungen stattfindet(kann auch von Events oder Karten gecalled werden).
