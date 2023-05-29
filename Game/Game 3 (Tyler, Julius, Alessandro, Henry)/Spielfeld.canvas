@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"text","text":"16 Start\nJulius, Alessandro, Tyler, \nHenry","id":"18c031daef388a85","x":-860,"y":100,"width":250,"height":123,"color":"4"},
+		{"type":"text","text":"NPCspawnecke","id":"46fdbee348205ff9","x":-746,"y":-720,"width":1110,"height":222,"color":"6"},
+		{"type":"text","text":"17 Belohnungsfeld","id":"a5dafa9871779a08","x":-581,"y":100,"width":250,"height":123,"color":"2"},
+		{"type":"text","text":"18\n","id":"6ae76992460a06a0","x":-290,"y":100,"width":250,"height":123},
+		{"type":"text","text":"19\n","id":"1f49e9fe0983ac68","x":10,"y":100,"width":250,"height":123},
+		{"type":"text","text":"20\n","id":"ae20c6e3ef13fbcc","x":310,"y":100,"width":250,"height":123},
+		{"type":"text","text":"11\n","id":"b4bc9e38585416eb","x":-860,"y":-60,"width":250,"height":123},
+		{"type":"text","text":"1\n","id":"e4ff25b9aa26aff3","x":-860,"y":-420,"width":250,"height":123},
+		{"type":"text","text":"6\n","id":"b5c0b6f2648c2f12","x":-860,"y":-240,"width":250,"height":123},
+		{"type":"text","text":"7\n","id":"3878a104a775c401","x":-581,"y":-240,"width":250,"height":123},
+		{"type":"text","text":"12\n","id":"dc35a9e51997df5c","x":-581,"y":-60,"width":250,"height":123},
+		{"type":"text","text":"2\n","id":"55af8e6fa3443667","x":-581,"y":-420,"width":250,"height":123},
+		{"type":"text","text":"14\n","id":"c6e089b27827fbb3","x":10,"y":-60,"width":250,"height":123},
+		{"type":"text","text":"4","id":"7d9c7155f294c688","x":10,"y":-420,"width":250,"height":123},
+		{"type":"text","text":"9\n","id":"a6bd62a3d30d9d05","x":10,"y":-240,"width":250,"height":123},
+		{"type":"text","text":"5\n","id":"d4409c4a84a5cad4","x":310,"y":-420,"width":250,"height":123},
+		{"type":"text","text":"10\n","id":"daf624bf83f10937","x":310,"y":-240,"width":250,"height":123},
+		{"type":"text","text":"15\n","id":"c8ddf55c2f92035f","x":310,"y":-60,"width":250,"height":123},
+		{"type":"text","text":"13\n","id":"1c50e5b31e9a8e53","x":-290,"y":-60,"width":250,"height":123},
+		{"type":"text","text":"8\n","id":"416fb1b2a94b72f7","x":-290,"y":-240,"width":250,"height":123},
+		{"type":"text","text":"3\n","id":"1f7ea246105484c1","x":-290,"y":-420,"width":250,"height":123},
+		{"type":"file","file":"Einfuß 1.png","id":"53d0e5d8fe28473f","x":-660,"y":-52,"width":50,"height":108},
+		{"type":"file","file":"Pasted image 20230529235955.png","id":"ca76d18257e6ff80","x":180,"y":-208,"width":60,"height":60}
+	],
+	"edges":[]
+}

@@ -8,7 +8,7 @@
 		{"type":"text","text":"NPCspawnecke\n","id":"0f2028070f7d3842","x":-302,"y":-319,"width":682,"height":159},
 		{"type":"file","file":"Pasted image 20230529164736.png","id":"0c9330a8048e553d","x":-350,"y":-1,"width":67,"height":50},
 		{"type":"text","text":"21 ","id":"b8a277258703f865","x":-410,"y":260,"width":250,"height":110},
-		{"id":"e00f5cb0cdd2b8c8","x":-680,"y":100,"width":250,"height":110,"type":"text","text":"15"},
+		{"type":"text","text":"15","id":"e00f5cb0cdd2b8c8","x":-680,"y":100,"width":250,"height":110},
 		{"type":"text","text":"17","id":"767562d9c62cba02","x":-120,"y":100,"width":250,"height":110}
 	],
 	"edges":[]
